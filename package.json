@@ -1,0 +1,18 @@
+{
+  "name": "electron-bookmarklette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./app/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Littauer <richard.littauer@gmail.com> (https://burntfen.com)",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^8.0.0"
+  }
+}

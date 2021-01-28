@@ -13,6 +13,6 @@
   "author": "Richard Littauer <richard.littauer@gmail.com> (https://burntfen.com)",
   "license": "MIT",
   "dependencies": {
-    "electron": "^8.0.0"
+    "electron": "^9.4.0"
   }
 }
